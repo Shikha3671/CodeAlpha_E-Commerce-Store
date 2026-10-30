@@ -82,3 +82,4 @@ The database starts pre-seeded with 6 sample products, so you can browse immedia
 1. Create a GitHub repo named `CodeAlpha_Ecommerce_Store` and push this code.
 2. Record a short video walking through the store (browsing, cart, checkout) and post it on LinkedIn, tagging **@CodeAlpha**, with the GitHub link.
 3. Submit the task through the internship Submission Form shared in your WhatsApp group.
+# CodeAlpha_E-Commerce-Store
